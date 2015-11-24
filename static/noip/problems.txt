@@ -1,0 +1,47 @@
+# all file encoding is GB2312
+简单模拟题
+* 贪食蛇
+** http://www.letujy.com/static/noip/snake.txt
+* 字符串基本操作
+** http://www.letujy.com/static/noip/string.txt
+* 翻转字符串
+** http://www.letujy.com/static/noip/reversestr.txt
+* 验证哥德巴赫猜想
+* 打印杨辉三角
+* 非负数组最大连续和
+** http://www.letujy.com/static/noip/maxseg.txt
+* 字符串和数字间转换
+** http://www.letujy.com/static/noip/iatrans.txt
+
+排序算法
+* 插入排序
+** http://www.letujy.com/static/noip/sort1.txt
+* 选择排序
+** http://www.letujy.com/static/noip/sort2.txt
+* 冒泡排序
+** http://www.letujy.com/static/noip/sort3.txt
+* 快速排序
+** http://www.letujy.com/static/noip/sort4.txt
+* 归并排序
+** http://www.letujy.com/static/noip/sort5.txt
+* 字符串排序
+** http://www.letujy.com/static/noip/strsort.txt
+
+简单容器
+二分查找
+DFS
+BFS
+枚举
+动态规划
+哈希表
+堆
+数论
+二叉树
+最短路径
+最小生成树
+网络流
+线段树
+自动机
+并查集
+后缀数组
+贪心类题目

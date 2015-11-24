@@ -1,0 +1,27 @@
+如下程序：http://www.letujy.com/static/noip/string_raw.cpp
+补全它的strlen, strcmp和strcat三个函数，分别实现获取字符串长度、字符串比较和拼接字符串等功能。
+
+输入：两行，每行为一个只由小写字母组成的字符串。每个字符串的长度都不超过100.
+输出：
+第一行、第二行：两个字符串的长度
+第三行：打印'<','=','>'三个字符之一，表示第一个字符串是否小于/等于/大于第二个字符串
+第四行：打印两个字符串拼接而成的字符串
+
+输入样例：
+best
+worst
+
+输出样例：
+4
+5
+<
+bestworst
+
+输入数据：
+http://www.letujy.com/static/noip/string.in
+
+输出数据：
+http://www.letujy.com/static/noip/string.out
+
+样例：
+http://www.letujy.com/static/noip/string.cpp

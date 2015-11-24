@@ -1,0 +1,23 @@
+补全如下代码的reverse函数 http://www.letujy.com/static/noip/reversestr_raw.cpp
+使得可以在读入字符串之后，对字符串进行左右翻转
+
+输入：
+一个仅由小写字母组成的字符串，字符串长度不超过100
+
+输出：
+打印左右翻转之后的字符串
+
+输入样例：
+working
+
+输出样例
+gnikrow
+
+输入数据：
+http://www.letujy.com/static/noip/reversestr.in
+
+输出数据：
+http://www.letujy.com/static/noip/reversestr.out
+
+程序样例：
+http://www.letujy.com/static/noip/reversestr.cpp

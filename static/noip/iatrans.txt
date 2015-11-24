@@ -1,0 +1,23 @@
+补全如下代码的string_add函数 http://www.letujy.com/static/noip/iatrans_raw.cpp
+通过字符串和整型的互相转换，可以读入两个正整数，然后打印它们的和。
+
+输入：
+一行包含两个正整数，用空格分割。
+
+输出：
+一行包含一个整数，表示两个数的和。
+
+输入样例：
+345 981
+
+输出样例：
+1326
+
+输入数据：
+http://www.letujy.com/static/noip/iatrans.in
+
+输出数据：
+http://www.letujy.com/static/noip/iatrans.out
+
+程序样例：
+http://www.letujy.com/static/noip/iatrans.cpp

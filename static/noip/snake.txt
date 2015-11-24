@@ -1,0 +1,24 @@
+对于N*N的矩阵，从左上角从1开始填数，初始方向向下，遇到阻碍时按顺时针方式改变填数的方向。
+
+输入：整数N ( 1<=N<10 )
+输出：矩阵的内容。
+注意：用printf("%3d",...)的格式打印整数
+
+输入样例：
+4
+
+输出样例：
+  1 12 11 10
+  2 13 16  9
+  3 14 15  8
+  4  5  6  7
+
+
+input数据：
+http://www.letujy.com/static/noip/snake.in
+
+output数据：
+http://www.letujy.com/static/noip/snake.out
+
+样例：
+http://www.letujy.com/static/noip/snake.cpp
