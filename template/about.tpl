@@ -104,7 +104,7 @@ $def with (page)
                     <img src="/static/test_img/idea_exp2.png" border="0" style="margin:5px; float:left" />
                     <span style="font-size:16px; color:#59493f; line-height:34px; " ><strong>先进教学理念</strong></span><br/>
                     <span style="line-height:1.8; color:#666; font-size:12px; clear:both">学会学习、自觉学习、高效学习、<br/>
-                    快乐学习这就是乐途的目标</span>
+                    快乐学习这就是千知的目标</span>
                 </div>
                 <div class="colSep"></div>
                 <div style="width:298px; height:80px; margin:6px 10px; float:left">
@@ -122,7 +122,7 @@ $def with (page)
     <a href="/about">关于我们</a> | 
     <a href="/about">联系我们</a>
     </div>
-    <div style="font-family:Arial,Helvetica,sans-serif">&copy; 2014 letujy.com, all rights reserved &nbsp; 乐途教育版权所有</div>
+    <div style="font-family:Arial,Helvetica,sans-serif">&copy; 2015 qianzhi.org, all rights reserved &nbsp; 千知教育版权所有</div>
     </div>
 </body>
 </html>
