@@ -11,5 +11,6 @@ render = web.template.render("template/");
 class SiteHome:
     def GET(self):
         page = Page()
+        page.curnav = 1
         return render.site(page)
 

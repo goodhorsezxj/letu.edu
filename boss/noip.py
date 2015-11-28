@@ -11,5 +11,6 @@ render = web.template.render("template/");
 class Noip:
     def GET(self):
         page = Page();
+        page.curnav = 4
         return render.noip(page);
 

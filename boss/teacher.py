@@ -11,5 +11,6 @@ render = web.template.render("template/");
 class Teacher:
     def GET(self):
         page = Page();
+        page.curnav = 3
         return render.teacher(page);
 
