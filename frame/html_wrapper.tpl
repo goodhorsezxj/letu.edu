@@ -11,7 +11,10 @@ $def with (page, body="", js="", onload="", nav="")
 .itemSep {width:15px; height:38px; float:left; background:url(/static/test_img/sep.jpg) no-repeat; background-position: center;}
 .colSep {width:2px; height:40px; right:9px; margin-top:40px; float:left; background:url(/static/test_img/bg14.gif) repeat-y;}
 </style>
-<title>${page.title}</title>
+$if page.title:
+    <title>千知教育 - ${page.title}</title>
+$else:
+    <title>千知教育</title>
 $if js:
     $:js
 $#-endif
@@ -59,7 +62,7 @@ $#-endif
         <div class="itemSep"></div>
         <div style="margin:0; height:100%; float:left">
           <div style="width:110px; height:100%; text-align:center">
-            <a href="javascript:void(0)"><span style="line-height:38px;font-size:14px;font-family:'微软雅黑';">
+            <a href=""><span style="line-height:38px;font-size:14px;font-family:'微软雅黑';">
               <strong>${nav}</strong>
             </span></a>
           </div>
